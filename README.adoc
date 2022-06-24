@@ -1,0 +1,3 @@
+= Just bash noodling
+
+Playing around with random bash constructs.
